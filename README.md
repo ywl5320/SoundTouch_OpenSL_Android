@@ -1,0 +1,2 @@
+# SoundTouch_OpenSL_Android
+Android中用OpenSL ES来播放SoundTouch转换后的PCM数据
