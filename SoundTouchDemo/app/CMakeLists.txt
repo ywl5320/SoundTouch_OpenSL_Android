@@ -5,7 +5,6 @@
 
 cmake_minimum_required(VERSION 3.4.1)
 
-include_directories(src/main/cpp/SoundStretch)
 include_directories(src/main/cpp/SoundTouch)
 include_directories(src/main/cpp/include)
 
